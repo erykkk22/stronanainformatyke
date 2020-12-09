@@ -1,0 +1,23 @@
+body
+{
+    background: url(https://images4.alphacoders.com/262/thumb-1920-262364.jpg);
+    text-align: center;
+    background-attachment: fixed;
+}
+h2.candy
+{
+    margin-top: 50px;
+}
+h2
+{
+    color: blue;
+}
+h3
+{
+    color: red;
+}
+h1
+{
+    font-size: 40px;
+    color: yellow;
+}
